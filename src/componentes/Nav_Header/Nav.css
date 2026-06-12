@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+ul > li {
+  color: var(--colorTextColor2);
+  font-family: "Poppins";
+  font-size: 1rem;
+  font-weight: 400;
+}
